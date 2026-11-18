@@ -104,7 +104,7 @@ Na Linuksie wymagane są zależności systemowe Tauri. Pełną listę znajdziesz
 ### Instalacja
 
 ```bash
-git clone https://github.com/twoj-user/pulse.git
+git clone https://github.com/vpui/pulse.git
 cd pulse
 npm install
 npm run tauri dev
@@ -211,7 +211,7 @@ Pulse ma wyglądać jak spokojny kokpit: informacje są czytelne, a interfejs ni
 - [ ] Pasek boczny dla wielu agentów
 - [ ] Obsługa transportu HTTP ACP (monitorowanie zdalnych agentów)
 
-Pełny plan i dyskusje znajdziesz w [Issues](https://github.com/twoj-user/pulse/issues).
+Pełny plan i dyskusje znajdziesz w [Issues](https://github.com/vpui/pulse/issues).
 
 ---
 
@@ -225,11 +225,11 @@ Pulse jest otwarty na wkład. Jeśli chcesz pomóc:
 4. Wypchnij branch (`git push origin feature/nazwa`).
 5. Otwórz Pull Request.
 
-Przed rozpoczęciem przeczytaj [CONTRIBUTING.md](CONTRIBUTING.md) i [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Jeśli nie wiesz, od czego zacząć, zajrzyj do issues oznaczonych etykietą [`good first issue`](https://github.com/twoj-user/pulse/labels/good%20first%20issue).
+Przed rozpoczęciem przeczytaj [CONTRIBUTING.md](CONTRIBUTING.md) i [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Jeśli nie wiesz, od czego zacząć, zajrzyj do issues oznaczonych etykietą [`good first issue`](https://github.com/vpui/pulse/labels/good%20first%20issue).
 
 ### Zgłaszanie błędów
 
-Skorzystaj z [szablonu issue](https://github.com/twoj-user/pulse/issues/new/choose). Dołącz wersję Pulse, system operacyjny oraz logi z `~/.local/share/pulse/logs/`.
+Skorzystaj z [szablonu issue](https://github.com/vpui/pulse/issues/new/choose). Dołącz wersję Pulse, system operacyjny oraz logi z `~/.local/share/pulse/logs/`.
 
 ---
 
